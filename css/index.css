@@ -25,11 +25,11 @@ body{
 }
 
 .logo{
-    background-image: url("../img/e-shop_logo.png");
+    background-image: url("../img/logo.png");
     /* background-blend-mode:; */
     background-size: cover;
     height: 60px;
-    width: 100%;
+    width: 95%;
 }
 
 .border{
