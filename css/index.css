@@ -421,7 +421,7 @@ footer{
 }
 
 
-.signpanel{
+.guestpanel{
     margin: 20px 0px 20px 0px;
     padding-top: 10px;
     height: 230px;
@@ -434,12 +434,12 @@ hr{
     margin: 40px 0px 40px 0px;
 }
 
-.signtitle{
+.guesttitle{
     padding: 0px 0px 10px 0px;
     font-size: 0.9rem;
 }
 
-.signbutton{
+.guestbutton{
     margin: 5px 0px 14px 0px;
 }
 
@@ -455,7 +455,7 @@ a{
 
 }
 
-.signfoot{
+.guestfoot{
     font-size: 0.8rem;
 }
 
