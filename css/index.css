@@ -12,7 +12,7 @@ body{
 
 .navbar-1{
     height: 67px;
-    background-color:#0f1111;
+    background-color:#black;
     color: white;
     display: flex;
     justify-content: space-evenly;
